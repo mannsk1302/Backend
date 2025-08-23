@@ -4,7 +4,7 @@ import express from "express";
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send('Server is running!')
+    res.send('Server is running!');
 });
 
 app.get('/api/jokes', (req, res) => {
