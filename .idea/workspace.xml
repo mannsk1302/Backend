@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add Mongoose schemas for `Order`, `User`, `Category`, and `Product` models.">
-      <change afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/doctors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/hospital.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/medical_records.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/pateint.js" afterDir="false" />
+    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/doctors.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/doctors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/hospital.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/hospital.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/pateint.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_03/Models/Hospital-Management/pateint.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,8 @@
       <workItem from="1755973711985" duration="740000" />
       <workItem from="1756063580769" duration="1337000" />
       <workItem from="1756117509368" duration="662000" />
-      <workItem from="1756118985997" duration="2445000" />
+      <workItem from="1756118985997" duration="2586000" />
+      <workItem from="1756146167714" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -208,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756121057531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models.">
+      <option name="closed" value="true" />
+      <created>1756121591590</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756121591592</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +232,7 @@
     <MESSAGE value="Revision." />
     <MESSAGE value="Add Mongoose schemas for `User`, `Todo`, and `SubTodo` models." />
     <MESSAGE value="Add Mongoose schemas for `Order`, `User`, `Category`, and `Product` models." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Mongoose schemas for `Order`, `User`, `Category`, and `Product` models." />
+    <MESSAGE value="Add Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
   </component>
 </project>
