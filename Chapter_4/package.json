@@ -1,0 +1,16 @@
+{
+  "name": "chapter_4",
+  "version": "1.0.0",
+  "description": " Learning Backend from Chai aur Code.",
+  "keywords": [
+    "Javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Hitesh Chaudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

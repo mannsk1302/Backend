@@ -99,7 +99,7 @@
       <workItem from="1756117509368" duration="662000" />
       <workItem from="1756118985997" duration="2586000" />
       <workItem from="1756146167714" duration="1400000" />
-      <workItem from="1756230557269" duration="1716000" />
+      <workItem from="1756230557269" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -229,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756232847954</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments.">
+      <option name="closed" value="true" />
+      <created>1756233017480</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1756233017480</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
