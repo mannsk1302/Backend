@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add detailed Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models.">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -101,7 +99,7 @@
       <workItem from="1756117509368" duration="662000" />
       <workItem from="1756118985997" duration="2586000" />
       <workItem from="1756146167714" duration="1400000" />
-      <workItem from="1756230557269" duration="1374000" />
+      <workItem from="1756230557269" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -223,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756147307373</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments.">
+      <option name="closed" value="true" />
+      <created>1756232847954</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756232847954</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +247,7 @@
     <MESSAGE value="Add Mongoose schemas for `Order`, `User`, `Category`, and `Product` models." />
     <MESSAGE value="Add Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
     <MESSAGE value="Add detailed Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add detailed Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
+    <MESSAGE value="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments." />
   </component>
 </project>
