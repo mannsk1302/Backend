@@ -11,7 +11,6 @@ const orderItemSchema = new mongoose.Schema({
     }
 });
 
-
 const ordersSchema = new mongoose.Schema({
     orderPrice: {
         type: Number,
