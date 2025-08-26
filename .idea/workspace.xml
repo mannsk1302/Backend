@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Remove unnecessary blank line in `orders.js`.">
-      <change afterPath="$PROJECT_DIR$/Chapter_4/Chapter_4/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_4/Chapter_4/Public/temp/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -26,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Chapter_4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -107,7 +105,7 @@
       <workItem from="1756117509368" duration="662000" />
       <workItem from="1756118985997" duration="2586000" />
       <workItem from="1756146167714" duration="1400000" />
-      <workItem from="1756230557269" duration="3284000" />
+      <workItem from="1756230557269" duration="4217000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -273,6 +271,6 @@
     <MESSAGE value="Add detailed Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
     <MESSAGE value="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments." />
     <MESSAGE value="Remove unnecessary blank line in `orders.js`." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove unnecessary blank line in `orders.js`." />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
