@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add Prettier configuration and update dependencies.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add Prettier configuration and update dependencies." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,7 @@
       <workItem from="1756118985997" duration="2586000" />
       <workItem from="1756146167714" duration="1400000" />
       <workItem from="1756230557269" duration="4566000" />
-      <workItem from="1756405210250" duration="271000" />
+      <workItem from="1756405210250" duration="5460000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -257,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756235751047</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add Prettier configuration and update dependencies.">
+      <option name="closed" value="true" />
+      <created>1756405599138</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1756405599138</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
