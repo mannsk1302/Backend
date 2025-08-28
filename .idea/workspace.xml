@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Remove unnecessary blank line in `orders.js`.">
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add Prettier configuration and update dependencies.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,8 @@
       <workItem from="1756117509368" duration="662000" />
       <workItem from="1756118985997" duration="2586000" />
       <workItem from="1756146167714" duration="1400000" />
-      <workItem from="1756230557269" duration="4217000" />
+      <workItem from="1756230557269" duration="4566000" />
+      <workItem from="1756405210250" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -251,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756233457576</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add Prettier configuration and update dependencies.">
+      <option name="closed" value="true" />
+      <created>1756235751047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1756235751047</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +277,7 @@
     <MESSAGE value="Add detailed Mongoose schemas for `Doctor`, `Pateint`, `Hospital`, and `MedicalRecord` models." />
     <MESSAGE value="Update `.idea` project files and `vcs.xml` with detailed Mongoose schema task and Git mapping adjustments." />
     <MESSAGE value="Remove unnecessary blank line in `orders.js`." />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Add Prettier configuration and update dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Prettier configuration and update dependencies." />
   </component>
 </project>
