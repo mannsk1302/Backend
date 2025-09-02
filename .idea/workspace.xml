@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Add `Video` and `User` Mongoose models with schema definitions and integrate `mongoose-aggregate-paginate-v2` plugin. Update dependencies.">
+    <list default="true" id="7621f4fa-f740-446c-95e5-f45d98b6904a" name="Changes" comment="Hash passwords with `bcrypt`, add JWT support in `User` model, and update dependencies in `package.json`.">
+      <change afterPath="$PROJECT_DIR$/Chapter_4/src/utils/cloudinary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_4/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_4/src/models/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,8 @@
       <workItem from="1756498327891" duration="3773000" />
       <workItem from="1756582735022" duration="141000" />
       <workItem from="1756670345973" duration="2792000" />
-      <workItem from="1756752185215" duration="3037000" />
+      <workItem from="1756752185215" duration="3199000" />
+      <workItem from="1756804284520" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="Add `.editorconfig`, `.env`, and `.eslintrc` configuration files along with a sample `package-lock.json`">
       <option name="closed" value="true" />
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756673157716</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Hash passwords with `bcrypt`, add JWT support in `User` model, and update dependencies in `package.json`.">
+      <option name="closed" value="true" />
+      <created>1756755429848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1756755429848</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +343,7 @@
     <MESSAGE value="logic." />
     <MESSAGE value="Add missing semicolon in `app.js`." />
     <MESSAGE value="Add `Video` and `User` Mongoose models with schema definitions and integrate `mongoose-aggregate-paginate-v2` plugin. Update dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add `Video` and `User` Mongoose models with schema definitions and integrate `mongoose-aggregate-paginate-v2` plugin. Update dependencies." />
+    <MESSAGE value="Hash passwords with `bcrypt`, add JWT support in `User` model, and update dependencies in `package.json`." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash passwords with `bcrypt`, add JWT support in `User` model, and update dependencies in `package.json`." />
   </component>
 </project>
